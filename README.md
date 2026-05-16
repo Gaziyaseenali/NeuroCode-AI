@@ -231,7 +231,8 @@ http://localhost:3000
 
 ## **Backend Swagger Documentation**
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-17 022350" src="https://github.com/user-attachments/assets/8e06d512-a888-4037-a8ef-4d8f38fae6d6" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 031508" src="https://github.com/user-attachments/assets/d0451043-955f-4638-abf5-b04d9c240a97" />
+
 
 
 ---

@@ -1,0 +1,44 @@
+
+================================================================================
+NEUROCODE AI - END-TO-END VALIDATION REPORT
+================================================================================
+
+Total Tests: 17 | Passed: 16 | Failed: 1
+Success Rate: 94.1%
+Total Duration: 23.96s
+
+================================================================================
+
+URL PARSER (3/3)
+--------------------------------------------------------------------------------
+✓ Valid HTTPS URLs                                   [0.00s]
+✓ Valid SSH URLs                                     [0.00s]
+✓ Malformed URLs                                     [0.00s]
+
+METADATA FETCHER (4/4)
+--------------------------------------------------------------------------------
+✓ General Repository                                 [0.85s]
+✓ ML Repository                                      [0.48s]
+✓ Medical AI Repository                              [0.48s]
+✓ Invalid Repository                                 [0.32s]
+
+TREE FETCHER (3/3)
+--------------------------------------------------------------------------------
+✓ General Repository                                 [2.57s]
+✓ ML Repository                                      [2.19s]
+✓ Medical AI Repository                              [1.87s]
+
+ANALYZER (3/3)
+--------------------------------------------------------------------------------
+✓ General Repository                                 [2.13s]
+✓ ML Repository                                      [1.97s]
+✓ Medical AI Repository                              [1.95s]
+
+INTELLIGENCE SERVICE (3/4)
+--------------------------------------------------------------------------------
+✓ General Repository                                 [2.88s]
+✗ ML Repository                                      [1.88s]
+✓ Medical AI Repository                              [2.19s]
+✓ JSON Structure                                     [2.18s]
+
+================================================================================

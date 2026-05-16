@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+bobenv/
+venv/
+
+# Environment Variables
+.env
+
+# Node
+node_modules/
+.next/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

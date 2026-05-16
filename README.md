@@ -92,7 +92,6 @@ https://neurocode-ai.onrender.com/docs
 
 # **Project Architecture**
 
-```text
 NeuroCode-AI/
 │
 ├── backend/

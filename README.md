@@ -220,15 +220,19 @@ http://localhost:3000
 
 ## **Landing Page**
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 025029" src="https://github.com/user-attachments/assets/524087d3-aca0-47ab-989e-7a7f3eba0c9f" />
+
 
 ## **Repository Analysis Dashboard**
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 025015" src="https://github.com/user-attachments/assets/68bb1222-2277-4f41-8c27-5738ad8fb434" /> <img width="1920" height="1080" alt="Screenshot 2026-05-17 022350" src="https://github.com/user-attachments/assets/684a77c7-475c-4bc0-bf96-885a163e4b13" />
+
+
 
 ## **Backend Swagger Documentation**
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 022350" src="https://github.com/user-attachments/assets/8e06d512-a888-4037-a8ef-4d8f38fae6d6" />
+
 
 ---
 

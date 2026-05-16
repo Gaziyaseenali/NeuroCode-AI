@@ -1,5 +1,8 @@
 # **NeuroCode AI**
 
+<img width="1536" height="1024" alt="NeuroCode-AI" src="https://github.com/user-attachments/assets/06d4f240-9b16-439c-80d9-dc22c31d7b14" />
+
+
 ## **Repository Intelligence & AI Research Acceleration Platform**
 
 NeuroCode AI is a full-stack AI-powered repository intelligence platform designed to analyze GitHub repositories, detect frameworks, understand project architecture, and accelerate AI/ML research workflows.

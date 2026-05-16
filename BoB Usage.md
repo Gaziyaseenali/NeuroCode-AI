@@ -137,6 +137,21 @@ The project emphasizes:
 - responsible integration of AI tooling into software engineering workflows.
 
 ---
+# IBM BOB Workflow Screenshots
+
+## Architecture Planning
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 033147" src="https://github.com/user-attachments/assets/9d9943d0-1dc9-46fe-b69c-efa691f838cf" />
+
+
+## Deployment Debugging
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 033328" src="https://github.com/user-attachments/assets/0af7ece0-e9c0-4d01-8451-ff0bbe05726d" />
+
+
+## Frontend Generation
+<img width="1920" height="1080" alt="Screenshot 2026-05-17 033741" src="https://github.com/user-attachments/assets/8fb2c409-38e0-467f-ac87-0c34bac10b3b" />, <img width="1920" height="1080" alt="Screenshot 2026-05-17 033709" src="https://github.com/user-attachments/assets/4d5a9446-a632-40e3-b415-a3aabe45352d" />
+
+
+
 
 # Outcome
 

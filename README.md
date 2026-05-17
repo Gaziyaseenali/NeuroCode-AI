@@ -1,6 +1,7 @@
 # **NeuroCode AI**
 
-<img width="1536" height="1024" alt="NeuroCode-AI" src="https://github.com/user-attachments/assets/06d4f240-9b16-439c-80d9-dc22c31d7b14" />
+<img width="1248" height="832" alt="NeuroCode AI" src="https://github.com/user-attachments/assets/1f7fddb9-e750-4b99-8f49-4e4f673293ac" />
+
 
 
 ## **Repository Intelligence & AI Research Acceleration Platform**
